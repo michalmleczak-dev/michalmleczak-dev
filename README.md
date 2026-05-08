@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-profile-cover.png" alt="Michał Mleczak - Brand & Product Designer" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Michał Mleczak</h1>
 
 <p align="center">
